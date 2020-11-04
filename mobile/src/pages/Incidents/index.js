@@ -2,11 +2,8 @@ import React, { useState, useEffect } from 'react'
 import { Feather } from '@expo/vector-icons'
 import { useNavigation } from '@react-navigation/native'
 import { View, FlatList, Image, Text, TouchableOpacity } from 'react-native'
-
 import api from "../../services/api";
-
 import logoImg from '../../assets/logo.png'
-
 import styles from './styles'
 
 export default function Incidents() {
@@ -22,13 +19,9 @@ export default function Incidents() {
     }
 
     async function loadIncidents(){
-        if (loading){
-            return;
-        }
-
-        if(total > 0 && incidents.length === total){
-            return;
-        }
+        if(loading) return;
+        if(total > 0 && incidents.length === total) return
+        
         setLoading(true)
 
         const response = await api.get('incidents', {
@@ -48,12 +41,14 @@ export default function Incidents() {
 
     return (
         <View style={styles.container}>
+
             <View style={styles.header}>
                 <Image source={logoImg} />
                 <Text style={styles.headerText}>
                     Total de <Text style={styles.headerTextBold}>{total} casos</Text>
                 </Text>
             </View>
+            
             <Text style={styles.title}>Bem Vindo!</Text>
             <Text style={styles.description}>Escolha um dos casos abaixo e salve o dia.</Text>
 
