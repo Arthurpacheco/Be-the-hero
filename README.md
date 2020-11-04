@@ -1,8 +1,10 @@
-<h4 align="center">
+<h1 align="center">
   🚀 Semana OmniStack 11
-</h4>
+</h1>
 
-The project: Application to support some NGOs(non-governmental organization), where the NGO records its aid cases.
+<h4 align="left">
+  The project: Application to support some NGOs(non-governmental organization), where the NGO records its aid cases.
+</h4>
 
 Rocketseat provided a free course focused on mobile development using the following technologies.
 
