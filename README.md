@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="left">
- Rocketseat provided a free course focused on mobile development using the following technologies.
+ Rocketseat provided a free course focused on mobile and web development using ReactJs and React Native
  </h3>
 
 <h4 align="left">
