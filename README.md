@@ -8,6 +8,7 @@
 
 Rocketseat provided a free course focused on mobile development using the following technologies.
 
-Technologies: NodeJs, ReactJs, React Native, SQLite, Express, Axios
+<h4 align="left">
+Technologies:</h4> NodeJs, ReactJs, React Native, SQLite, Express, Axios
 
 Resources: Hooks, API Rest
