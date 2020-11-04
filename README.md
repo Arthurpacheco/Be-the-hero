@@ -1,5 +1,5 @@
 <h1 align="center">
-  Week OmniStack 11
+OmniStack Week 11
 </h1>
 
 <h3 align="left">
