@@ -2,13 +2,23 @@
   🚀 Semana OmniStack 11
 </h1>
 
+<h3 align="left">
+ Rocketseat provided a free course focused on mobile development using the following technologies.
+ </h3>
+
 <h4 align="left">
-  The project: Application to support some NGOs(non-governmental organization), where the NGO records its aid cases.
+  The project 
 </h4>
+Application to support some NGOs(non-governmental organization), where the NGO records its aid cases.
 
-Rocketseat provided a free course focused on mobile development using the following technologies.
+
 
 <h4 align="left">
-Technologies:</h4> NodeJs, ReactJs, React Native, SQLite, Express, Axios
+Technologies
+</h4> 
+NodeJs, ReactJs, React Native, SQLite, Express, Axios
 
-Resources: Hooks, API Rest
+<h4 align="left">
+Resources: 
+</h4>   
+Hooks, API Rest
