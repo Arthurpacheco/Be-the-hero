@@ -21,6 +21,6 @@ NodeJs, ReactJs, React Native, SQLite, Express, Axios
 <h4 align="left">
 Resources: 
 </h4>   
-Hooks, API Rest
+Hooks, API Rest, Routes
 
 
