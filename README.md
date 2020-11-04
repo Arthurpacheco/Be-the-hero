@@ -1,5 +1,5 @@
 <h1 align="center">
-  🚀 Semana OmniStack 11
+  Semana OmniStack 11
 </h1>
 
 <h3 align="left">
@@ -22,3 +22,5 @@ NodeJs, ReactJs, React Native, SQLite, Express, Axios
 Resources: 
 </h4>   
 Hooks, API Rest
+
+
